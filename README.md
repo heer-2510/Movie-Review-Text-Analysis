@@ -58,4 +58,5 @@ This dashboard helps:
 - Deployment to Power BI Service
 
 📷 Dashboard Preview
-<img width="1293" height="734" alt="Movie Review Analysis Dashboard" src="https://github.com/user-attachments/assets/d90eabf4-c4c5-4ba6-9bea-6e5ea671421e" />
+
+![Movie Analysis Dashboard](Movie%20Analysis%20Dashboard.png)
